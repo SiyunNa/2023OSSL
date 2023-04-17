@@ -1,3 +1,6 @@
 Hello, my name is Siyun Na.
 
 I changed this file in local Repo.
+
+I like to eat pizza.
+>>>>>>> 74ca044ef5fcae51a07fb7cb239f6e74d0a62d43
